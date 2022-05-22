@@ -157,7 +157,7 @@ $data=mysqli_query($con,"select * from produk ");
         _________________________________________________________
         -->
 			<div id="hot">	
-				  <section class="bg-dark py-4 my-5">
+				  <section class="bg-dark  py-4 my-5">
 						<div class="container">
 							<div class="row">
 								<div class="col-12">
